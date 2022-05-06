@@ -1,0 +1,18 @@
+	Welcome To Sumedh & Sourav Retail
+
+ Bill Number : 2126
+ Customer Name : Samir
+ Phone Number : 9146341851
+=======================================
+ Products		QTY		Price
+=======================================
+ Bath Soap		2		80
+ Daal		2		80
+ Maza		2		80
+---------------------------------------
+ Cosmetic Tax			Rs. 4.0
+ Grocery Tax			Rs. 4.0
+ Cold Drink Tax			Rs. 4.0
+---------------------------------------
+ Total Bill : 			252.0
+---------------------------------------

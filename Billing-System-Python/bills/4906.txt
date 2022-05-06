@@ -1,0 +1,18 @@
+	Welcome To Sumedh & Sourav Retail
+
+ Bill Number : 4906
+ Customer Name : sandip
+ Phone Number : 9146341851
+=======================================
+ Products		QTY		Price
+=======================================
+ Bath Soap		1		40
+ Daal		1		40
+ Sprite		1		40
+---------------------------------------
+ Cosmetic Tax			Rs. 2.0
+ Grocery Tax			Rs. 2.0
+ Cold Drink Tax			Rs. 2.0
+---------------------------------------
+ Total Bill : 			126.0
+---------------------------------------

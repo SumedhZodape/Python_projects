@@ -1,0 +1,18 @@
+	Welcome To Sumedh & Sourav Retail
+
+ Bill Number : 2645
+ Customer Name : Samrit
+ Phone Number : 9146341851
+=======================================
+ Products		QTY		Price
+=======================================
+ Face Cream		1		40
+ Sugar		1		40
+ Sprite		1		40
+---------------------------------------
+ Cosmetic Tax			Rs. 2.0
+ Grocery Tax			Rs. 2.0
+ Cold Drink Tax			Rs. 2.0
+---------------------------------------
+ Total Bill : 			126.0
+---------------------------------------
